@@ -39,7 +39,7 @@ export const Button = styled('button', {
         background: '$project500',
 
         '&:not(:disabled):hover': {
-          background: '$project300',
+          background: '$green300',
         },
 
         '&:disabled': {
@@ -48,7 +48,7 @@ export const Button = styled('button', {
       },
 
       secondary: {
-        color: '$project300',
+        color: '$green300',
         border: '2px solid $project500',
 
         '&:not(:disabled):hover': {

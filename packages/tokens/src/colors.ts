@@ -11,10 +11,10 @@ export const colors = {
   gray800: '#202024',
   gray900: '#121214',
 
-  project300: '#00B37E',
-  project500: '#00875F',
-  project700: '#015F43',
-  project900: '#00291D',
+  green300: '#00B37E',
+  green500: '#00875F',
+  green700: '#015F43',
+  green900: '#00291D',
 
   test: '#fff',
 }
