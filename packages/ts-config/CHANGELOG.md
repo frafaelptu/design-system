@@ -4,6 +4,8 @@
 
 ### Minor Changes
 
+changeset-release/main
+
 - fix colors CI/CD
 - f434974: fix colors
 - 56e6fd7: colors fix
