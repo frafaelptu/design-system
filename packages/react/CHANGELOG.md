@@ -1,4 +1,10 @@
-# @project-ui/react
+# @project-design-system-ui/react
+
+## 2.0.0
+
+### Major Changes
+
+- Add display name to all packages
 
 ## 1.0.1
 

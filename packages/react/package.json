@@ -1,6 +1,6 @@
 {
-  "name": "@project-ui/react",
-  "version": "1.0.1",
+  "name": "@project-design-system-ui/react",
+  "version": "2.0.0",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -14,9 +14,9 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@project-ui/eslint-config": "*",
-    "@project-ui/tokens": "*",
-    "@project-ui/ts-config": "*",
+    "@project-design-system-ui/eslint-config": "*",
+    "@project-design-system-ui/tokens": "*",
+    "@project-design-system-ui/ts-config": "*",
     "@types/react": "^18.0.21",
     "@types/react-dom": "^18.0.6",
     "react": "^18.2.0",

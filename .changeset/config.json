@@ -7,5 +7,5 @@
   "access": "public",
   "baseBranch": "main",
   "updateInternalDependencies": "patch",
-  "ignore": ["@project-ui/docs"]
+  "ignore": ["@project-design-system-ui/docs"]
 }
