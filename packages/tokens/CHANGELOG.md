@@ -1,5 +1,11 @@
 # @project-design-system-ui/tokens
 
+## 4.0.0
+
+### Major Changes
+
+- fix color green
+
 ## 3.0.0
 
 ### Major Changes
