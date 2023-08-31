@@ -1,5 +1,11 @@
 # @project-design-system-ui/react
 
+## 3.0.0
+
+### Major Changes
+
+- fix color button tertiary
+
 ## 2.2.0
 
 ### Minor Changes

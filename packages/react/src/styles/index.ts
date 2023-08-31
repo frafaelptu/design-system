@@ -25,13 +25,5 @@ export const {
     width: 'space',
   },
 
-  theme: {
-    colors,
-    fontSizes,
-    fontWeights,
-    fonts,
-    lineHeights,
-    radii,
-    space,
-  },
+  theme: { colors, fontSizes, fontWeights, fonts, lineHeights, radii, space },
 })
